@@ -1,5 +1,5 @@
 # UIBestellungen
-Assoziationen / Aufgabe 1
+Assoziationen
 
 OOPs concepts - Association in Java.
 
